@@ -1,4 +1,4 @@
-# PUushpojit99.github.io
+# Pushpojit99.github.io
 
 This page will tell you where to find trending topics and keywords.
 
