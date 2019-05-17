@@ -44,11 +44,11 @@ Buzzfeed grew simply by posting content on trending topics. So, you can rest ass
 Buzzfeed’s trending topics are mostly in the shape of listicles. What you can draw from here is not only keyword ideas and topics but the most effective way of framing the titles. This site works simply because it can make people click on the links. You learn it too.
 
 
-# 6. Buzzfeed
+# 7. Reddit
 
-Buzzfeed grew simply by posting content on trending topics. So, you can rest assured that the people at Buzzfeed know how to find the right trends. The good thing is that they also display Buzzfeed trends for everyone to see on the right hand side of the homepage and so you can easily find out how to your trends through this site.
+Reddit is a hugely popular site where everyday people are having heated debates on every topic under the sun. The topics can be voted up or down on the site and so the ones with most “upvotes” only are seen on the homepage. So, in a way, one look at the Reddit homepage can give you a very good idea about what is trending right now.
 
-Buzzfeed’s trending topics are mostly in the shape of listicles. What you can draw from here is not only keyword ideas and topics but the most effective way of framing the titles. This site works simply because it can make people click on the links. You learn it too.
+The best way to exploit Reddit is to discover subreddits i.e. instead of just exploring the homepage, find subpages that are dedicated to specific topics and offer more specific insights.
 
 
 # 8. Topsy
