@@ -11,7 +11,7 @@ Syntax highlighted code block
  - This is header 1.
 # Header 2
  This is header 2 without a bullet.
-### Header 3
+# Header 3
 
  - Bulleted
  - List
