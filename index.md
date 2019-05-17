@@ -8,6 +8,7 @@ Just trying out a page.
 Syntax highlighted code block
 
 # Header 1
+ - This is header 1.
 ## Header 2
 ### Header 3
 
